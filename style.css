@@ -1,0 +1,11 @@
+.navbar {
+  background-color: #085e7d !important;
+}
+.bg-dark {
+  background-color: #085e7d !important;
+}
+.card-img-top {
+  height: 25vh;
+  width: 100%;
+  object-fit: cover;
+}
